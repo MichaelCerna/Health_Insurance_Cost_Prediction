@@ -22,10 +22,4 @@ The primary goal of this project is to develop a machine learning model that acc
 - **Hyperparameter Tuning**: Optimizing model parameters for improved performance.
 - **Cross-Validation**: Implementing 5-fold cross-validation, resulting in an RMSE of 4340 and an R-squared of approximately 0.86.
 
-
-- This project was developed as part of a machine learning course.
-- The dataset used in this project is publicly available on [source link].
-
-## Contact
-
-For any questions or inquiries about this project, please contact [Your Name] at [Your Email Address].
+- **Data_set**: The following dataset is available publicly https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
