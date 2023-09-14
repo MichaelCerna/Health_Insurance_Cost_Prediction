@@ -25,6 +25,8 @@ The primary goal of this project is to develop a robust machine learning model c
 - **Hyperparameter Tuning**: Fine-tuning model parameters for improved predictive performance.
 - **Cross-Validation**: Implementing 5-fold cross-validation to assess model generalization, resulting in an RMSE of 4340 and an R-squared of approximately 0.86.
   
-![F1 Scores](images/f1.png)
+<p align="center">
+  <img src="images/f1.png" alt="F1 Scores">
+</p>
 
 - **Dataset**: The project employs a publicly available dataset from [Kaggle](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset) for analysis and model training.
