@@ -24,7 +24,7 @@ The primary goal of this project is to develop a robust machine learning model c
 - **Anomaly Removal**: Conducting minor anomaly removal procedures to enhance model robustness.
 - **Hyperparameter Tuning**: Fine-tuning model parameters for improved predictive performance.
 - **Cross-Validation**: Implementing 5-fold cross-validation to assess model generalization, resulting in an RMSE of 4340 and an R-squared of approximately 0.86.
-- **F1 Scores**: Calculating F1 scores for classification tasks to evaluate model performance.
+  
 ![F1 Scores](images/f1.png)
 
 - **Dataset**: The project employs a publicly available dataset from [Kaggle](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset) for analysis and model training.
