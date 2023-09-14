@@ -23,7 +23,7 @@ The primary goal of this project is to develop a robust machine learning model c
 - **Random Forest Regressor**: Achieving a baseline RMSE of approximately 4675 and an R-squared of 0.86.
 - **Anomaly Removal**: Conducting minor anomaly removal procedures to enhance model robustness.
 - **Hyperparameter Tuning**: Fine-tuning model parameters for improved predictive performance.
-- **Cross-Validation**: Implementing 5-fold cross-validation to assess model generalization, resulting in an RMSE of 4340 and an R-squared of approximately 0.86.
+- **Cross-Validation**: Implementing 5-fold cross-validation to assess model generalization.
   
 <p align="center">
   <img src="images/f1.png" alt="F1 Scores">
